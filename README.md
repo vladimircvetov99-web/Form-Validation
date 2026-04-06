@@ -3,6 +3,7 @@
 ## Описание
 Form-validation *сайт* с полем для регистрации пользователей .
 
+<img width="975" height="590" alt="image" src="https://github.com/user-attachments/assets/ff0d8138-60b4-4f98-bfd7-a1ee3d885480" />
 
 
 ## Полезные ссылки
